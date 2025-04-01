@@ -1,0 +1,21 @@
+html {
+    font-size: 28px;
+}
+
+body { 
+    font-size: 22;
+    background-color: #500a0a;
+    color: rgb(97, 218, 16);
+}
+
+a {
+    color: aliceblue;
+}
+
+a:visited {
+    color: lightgray;
+}
+
+a:hover, a:active {
+    color: #eee;
+}
